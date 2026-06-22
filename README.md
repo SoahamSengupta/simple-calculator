@@ -4,9 +4,6 @@
 
 ![Calculation Example](screenshots/calculator_1.png)
 
-### Calculation Example
-
-(screenshots/calculator_2.png)
 
 # Simple Calculator
 
