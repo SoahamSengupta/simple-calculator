@@ -1,3 +1,13 @@
+## Screenshots
+
+### Calculator Interface
+
+![Calculator](screenshots/calculator_1.png)
+
+### Calculation Example
+
+![Calculation Example](screenshots/calculator_2.png)
+
 # Simple Calculator
 
 A responsive calculator built using HTML, CSS, and JavaScript that supports both mouse and keyboard input. The application performs basic arithmetic operations, validates user input, and provides a smooth calculator experience similar to desktop calculators.
