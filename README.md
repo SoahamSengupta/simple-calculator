@@ -2,11 +2,11 @@
 
 ### Calculator Interface
 
-![Calculator](screenshots/calculator_1.png)
+![Calculation Example](screenshots/calculator_1.png)
 
 ### Calculation Example
 
-![Calculation Example](screenshots/calculator_2.png)
+(screenshots/calculator_2.png)
 
 # Simple Calculator
 
